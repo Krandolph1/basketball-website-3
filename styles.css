@@ -57,7 +57,7 @@ b {
 }
 form {
     background-color: white;
-        font
+        
 }
 
 video {
@@ -65,4 +65,8 @@ video {
        margin-left: auto;
        margin-right: auto;
        width: 75%;
+}
+
+section {
+    background-color: yellow;
 }
